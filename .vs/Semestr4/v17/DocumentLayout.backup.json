@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\Semestr4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62147FD6-2CB7-428B-B8CC-ABAE0CB17EEE}|PNiskopoziomowe\\PNiskopoziomowe.vcxproj|C:\\Projects\\Semestr4\\PNiskopoziomowe\\PNiskopoziomowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62147FD6-2CB7-428B-B8CC-ABAE0CB17EEE}|PNiskopoziomowe\\PNiskopoziomowe.vcxproj|solutionrelative:PNiskopoziomowe\\PNiskopoziomowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Semestr4\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -23,6 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PNiskopoziomowe.cpp",
+              "DocumentMoniker": "C:\\Projects\\Semestr4\\PNiskopoziomowe\\PNiskopoziomowe.cpp",
+              "RelativeDocumentMoniker": "PNiskopoziomowe\\PNiskopoziomowe.cpp",
+              "ToolTip": "C:\\Projects\\Semestr4\\PNiskopoziomowe\\PNiskopoziomowe.cpp",
+              "RelativeToolTip": "PNiskopoziomowe\\PNiskopoziomowe.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T16:10:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Projects\\Semestr4\\README.md",
               "RelativeDocumentMoniker": "README.md",
